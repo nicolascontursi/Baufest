@@ -37,5 +37,5 @@ Durante la ejecución del proyecto, se generarán informes y resultados que pued
 
 Informes de pruebas: /path/resources/reportes
 
-Soporte
+
 Si tienes algún problema o pregunta, no dudes en contactarme
