@@ -17,24 +17,19 @@ Puedes utilizar un IDE como IntelliJ en cualquiera de sus versiones.
 Configuración del proyecto
 Sigue estos pasos para configurar el proyecto en tu entorno local:
 
-Clona este repositorio en tu máquina local:
-
-bash
-Copy code
+1. Clona este repositorio en tu máquina local:
 git clone https://github.com/nicolascontursi/Baufest.git
-Abre una terminal y navega hasta el directorio del proyecto:
 
-bash
-Copy code
+2. Abre una terminal y navega hasta el directorio del proyecto:
 cd Baufest
 
-Copy code
+3. Compila el proyecto usando Maven:
 mvn clean install
 
-Ejecución del proyecto
+4. Ejecución del proyecto
 Una vez que el proyecto está configurado, puedes ejecutarlo con el siguiente comando:
 
-Copy code
+5. Copy code
 mvn spring-boot:run
 
 Reporte de resultados obtenidos
