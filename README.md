@@ -1,2 +1,2 @@
 # Baufest
-Pruebas automatizadas para Baufest
+Pruebas automatizadas para Baufest.
